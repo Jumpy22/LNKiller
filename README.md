@@ -33,18 +33,20 @@ To use LNKiller, follow these steps:
    cd LNKiller
    ```
 
-3. Run the program:
+3. Extract icons.zip into icons/ in current directory
+
+4. Run the program:
    ```bash
    python LNKiller.py
    ```
 
-4. Generate and upload payload
+5. Generate and upload payload
 
    ![Generate Payload GUI](https://i.imgur.com/6jOBqd7.png)
 
 6. Generate LNK
 
-  ![Generate lnk GUI](https://i.imgur.com/ZuYtlX0.png)
+   ![Generate lnk GUI](https://i.imgur.com/ZuYtlX0.png)
 
 7. Give me money
   - $NoTagNoLife (Cashapp)
