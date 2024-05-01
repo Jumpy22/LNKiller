@@ -25,7 +25,7 @@ To use LNKiller, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/LNKiller.git](https://github.com/Jumpy22/LNKiller.git)
+   git clone https://github.com/Jumpy22/LNKiller.git
    ```
 
 2. Navigate to the cloned directory:
