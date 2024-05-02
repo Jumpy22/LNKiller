@@ -1,6 +1,6 @@
 # LNKiller
 
-LNKiller is a Python program for generating malicious Windows shortcut files (.lnk) that can be used for red teaming purposes. It uses powershell to download the payload and 
+LNKiller is a Python program for generating malicious Windows shortcut files (.lnk) that can be used for red teaming purposes. It uses powershell to download the payload, certutil to decode it, and Start-Process to execute.
 
 ## Table of Contents
 - [Description](#description)
