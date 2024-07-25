@@ -49,7 +49,6 @@ To use LNKiller, follow these steps:
    ![Generate lnk GUI](https://i.imgur.com/ZuYtlX0.png)
 
 7. Give me money
-  - $NoTagNoLife (Cashapp)
   - bc1q5qyrzzqhmuymx22l0ct4vr2tk0rsq63mush5pu (BTC)
   - 0xcD608a31e6a2c5B9173A5AAd154a651417C12CDd (ETH)
   - ltc1qhvq5lp5ykpmgzgcryv3xxma5ssqr3yjcz4ghs3 (LTC)
